@@ -1,5 +1,5 @@
 # FIR-IIR-Filters-MATLAB
-This project is part of my Digital Signal Processing Coursework to remove noise from audio file by digital filtering using MATLAB.
+This project is part of my Digital Signal Processing Coursework to design suitable digital filters for noise removal from audio file using MATLAB.
 
 Fiter Specifications:
 - Sampling freq: 44.1kHz
