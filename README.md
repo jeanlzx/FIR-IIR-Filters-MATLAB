@@ -20,5 +20,4 @@ FIR filters tested:
 - Kaiser
 
 Group members:
-Chee Ewen
-Ng Xin Zi
+Chee Ewen, Ng Xin Zi
